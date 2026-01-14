@@ -1,8 +1,49 @@
-This is the *Simple Chat Bot with Java* project I made myself.
+# Simple Chat Bot with Java
 
+This is a simple console-based chatbot project developed as part of the Hyperskill Java learning path. The goal of this project is to strengthen core Java programming skills by building a conversational bot from scratch. Throughout the exercises, you implement small features such as greeting, simple logic, mini-games, and basic arithmetic operations.
 
-<p>Begin grasping coding fundamentals by creating a simple console chat bot from scratch. This bot will be able to engage in basic conversation with you and perform simple arithmetic. During this journey, you will play some word and number games that you are going to implement on your own. Pack up and let’s hit the road!</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/113?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/113</a>
+## 📌 Project Goals
 
-Here's the link to the project: https://hyperskill.org/projects/113
+Through this project, I aimed to reinforce:
 
-Check out my profile: https://hyperskill.org/profile/626202635
+- Java syntax and fundamental programming concepts  
+- Handling user input in the console  
+- Conditional statements and loops  
+- Working with strings and basic algorithms  
+- Structuring small programs in a clean, modular way  
+- Problem-solving through incremental feature development
+
+## 🧠 Features
+
+- Greets the user and initiates simple conversation  
+- Age-guessing logic using arithmetic  
+- Small word or number guessing games  
+- Simple math operations  
+- Step-by-step expansion aligned with Hyperskill tasks  
+
+## 🚀 How to Run
+
+Run with Gradle:
+
+```bash
+./gradlew run
+```
+
+Or compile and run manually with Java:
+
+```bash
+javac Main.java
+java Main
+```
+
+## 📚 Resources
+
+Hyperskill project page:  
+https://hyperskill.org/projects/113
+
+My Hyperskill profile:  
+https://hyperskill.org/profile/626202635
+
+## 📄 License
+
+This project is created for educational purposes and does not contain a restrictive license.
